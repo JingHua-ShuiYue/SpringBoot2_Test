@@ -1,2 +1,2 @@
 # SpringBoot2_Test
-do some test
+SpringBoot入门练习
